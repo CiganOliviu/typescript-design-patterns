@@ -18,7 +18,7 @@ var Circle = /** @class */ (function () {
 }());
 var main = function () {
     var circleObject = Circle.getInstance({ 'xPoint': 2.2, 'yPoint': 3.4, 'radius': 5.6 });
-    var circleObjectAux = Circle.getInstance({ 'xPoint': 2.2, 'yPoint': 3.4, 'radius': 5.6 });
+    var circleObjectAux = Circle.getInstance({ 'xPoint': 6.2, 'yPoint': 7.3, 'radius': 12.8 });
     console.log(circleObject);
     console.log(circleObjectAux);
 };
