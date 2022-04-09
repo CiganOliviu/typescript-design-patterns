@@ -22,7 +22,7 @@ class Circle {
     return Circle.instance;
   }
 
-  public getCircleObject() {
+  public getCircleObject(): CircleType {
     return this.circle;
   }
 }
