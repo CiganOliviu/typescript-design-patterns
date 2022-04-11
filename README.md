@@ -1,5 +1,5 @@
 # design-patterns
 Design Patterns repo with docx.
 
-Singleton [X]
-FactoryObject [X]
+Singleton [ x ]
+FactoryObject [ x ]
