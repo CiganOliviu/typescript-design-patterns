@@ -1,5 +1,7 @@
 # design-patterns
 Design Patterns repo with docx.
 
-- [ X ] Singleton 
-- [ X ] FactoryObject
+- [ x ] Singleton 
+- [ x ] FactoryObject
+- [ x ] Builder
+- [ x ] Prototype
