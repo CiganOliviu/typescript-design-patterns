@@ -3,5 +3,5 @@ Design Patterns repo with docx.
 
 - [x] Singleton 
 - [x] FactoryObject
-- [] Builder
+- [x] Builder
 - [] Prototype
