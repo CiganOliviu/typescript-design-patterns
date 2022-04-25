@@ -44,3 +44,5 @@ const main = () => {
 
     const prototypeClone = prototype.clone();
 }
+
+main();
