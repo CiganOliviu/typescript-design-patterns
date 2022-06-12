@@ -6,7 +6,7 @@ Design Patterns repo with docx.
 - [x] Builder
 - [x] Prototype
 - [ ] Chain of Responsability
-- [ ] Command
+- [x] Command
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
