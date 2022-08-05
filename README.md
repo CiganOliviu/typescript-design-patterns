@@ -1,5 +1,4 @@
-# design-patterns
-Design Patterns repo with docx.
+# typescript-design-patterns
 
 - [x] Singleton 
 - [x] FactoryObject
