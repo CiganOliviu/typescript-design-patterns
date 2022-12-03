@@ -25,7 +25,7 @@ class Invoker {
     }
 
     private static isCommand(object): object is Command {
-        return object.execute != undefined;
+        return object.execute !== undefined;
     }
 
     public performSomething(): void {

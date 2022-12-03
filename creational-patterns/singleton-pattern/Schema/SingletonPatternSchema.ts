@@ -12,7 +12,7 @@ class Singleton {
     return Singleton.instance;
   }
 
-  public setBusinesLogic(): void {}
+  public setBusinessLogic(): void {}
 }
 
 const main = () => {
