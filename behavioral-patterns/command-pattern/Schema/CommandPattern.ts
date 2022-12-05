@@ -41,5 +41,5 @@ class Invoker {
 
 const invoker = new Invoker();
 invoker.setOnStart(new SimpleCommand());
-invoker.setOnFinish(new SimpleCommand());
+invoker.setOnFinish(new ComplexCommand());
 invoker.performSomething();
