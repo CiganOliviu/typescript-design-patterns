@@ -16,6 +16,6 @@
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] FlyWeight
