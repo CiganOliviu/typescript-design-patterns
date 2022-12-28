@@ -17,5 +17,5 @@
 - [ ] Bridge
 - [ ] Composite
 - [x] Decorator
-- [ ] Facade
+- [x] Facade
 - [ ] FlyWeight
