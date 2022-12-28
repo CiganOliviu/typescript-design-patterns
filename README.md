@@ -10,7 +10,7 @@
 - [x] Mediator
 - [ ] Memento
 - [ ] Observer
-- [ ] Strategy
+- [x] Strategy
 - [ ] TemplateMethod
 - [ ] Visitor
 - [ ] Adapter
