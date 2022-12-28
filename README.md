@@ -4,7 +4,7 @@
 - [x] FactoryObject
 - [x] Builder
 - [x] Prototype
-- [ ] Chain of Responsability
+- [x] Chain of Responsability
 - [x] Command
 - [ ] Iterator
 - [ ] Mediator
