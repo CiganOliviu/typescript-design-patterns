@@ -13,7 +13,7 @@
 - [x] Strategy
 - [ ] TemplateMethod
 - [ ] Visitor
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Composite
 - [x] Decorator
