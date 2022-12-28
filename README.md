@@ -7,7 +7,7 @@
 - [x] Chain of Responsability
 - [x] Command
 - [ ] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] Strategy
