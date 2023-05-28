@@ -6,7 +6,7 @@
 - [x] Prototype
 - [x] Chain of Responsability
 - [x] Command
-- [ ] Iterator
+- [x] Iterator
 - [x] Mediator
 - [ ] Memento
 - [ ] Observer
